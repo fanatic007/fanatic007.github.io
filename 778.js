@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresumeanywhere=self.webpackChunkresumeanywhere||[]).push([[778],{778:(e,s,n)=>{n.r(s),n.d(s,{default:()=>u});const u=n.p+"images/linkedin.svg"}}]);
