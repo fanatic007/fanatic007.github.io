@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkresumeanywhere=self.webpackChunkresumeanywhere||[]).push([[314],{197:(e,s,u)=>{u.r(s),u.d(s,{default:()=>a});const a=u.p+"images/phone.svg"}}]);
